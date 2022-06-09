@@ -1,20 +1,6 @@
-title: Temas dos trabalhos
-html:
-  embed_local_images: true
-  embed_svg: true
-export_on_save:
-    html: true
-id: "fichas"
----
-
 
 #### Tema do projeto
-
 - Apresentação de dados sobre países em olimpiadas. 
-
-#### Tela da aplicação
-
-![Quadro01](./Proposta.png)
 
 #### Descrição do aplicativo
 
