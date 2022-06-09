@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+  .default-color0.chart-bar { -fx-bar-fill: #FDE101 }
+  .default-color1.chart-bar { -fx-bar-fill: #D7D7D7 }
+  .default-color2.chart-bar { -fx-bar-fill: #A67949 }
+  .default-color3.chart-bar { -fx-bar-fill: #FDE101 }
+
+}
+.chart-bar {
+    -fx-bar-fill: #FDE101; 
+}
